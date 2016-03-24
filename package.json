@@ -1,0 +1,22 @@
+{
+  "name": "push_node",
+  "version": "1.0.0",
+  "description": "push notification cross browser in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diptangshu1991/push_node.git"
+  },
+  "author": "diptangshu dolui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diptangshu1991/push_node/issues"
+  },
+  "homepage": "https://github.com/diptangshu1991/push_node#readme",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}
